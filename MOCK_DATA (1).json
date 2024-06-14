@@ -1,0 +1,37 @@
+[
+    {
+        "first_name": "Arin",
+        "last_name": "Spera",
+        "email": "aspera0@people.com.cn",
+        "gender": "Male",
+        "phone": "7013117490"
+    },
+    {
+        "first_name": "Fidelio",
+        "last_name": "Twigger",
+        "email": "ftwigger1@facebook.com",
+        "gender": "Male",
+        "phone": "8320431194"
+    },
+    {
+        "first_name": "Courtenay",
+        "last_name": "Cripin",
+        "email": "ccripin2@biblegateway.com",
+        "gender": "Female",
+        "phone": "8721314469"
+    },
+    {
+        "first_name": "Geno",
+        "last_name": "Kemmish",
+        "email": "gkemmish3@photobucket.com",
+        "gender": "Male",
+        "phone": "9231011145"
+    },
+    {
+        "first_name": "Rance",
+        "last_name": "Kamen",
+        "email": "rkamen4@globo.com",
+        "gender": "Male",
+        "phone": "8915144212"
+    }
+]
